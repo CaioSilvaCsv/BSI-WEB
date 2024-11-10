@@ -4,10 +4,10 @@
 
 ****
 
-> **GIT** : Básico;
-> **HTML** : Intermediário;
-> **CSS** : Básico;
-> **JS** : Básico;
+> **GIT** : Básico; </br>
+> **HTML** : Intermediário; </br>
+> **CSS** : Básico;</br>
+> **JS** : Básico;</br>
 > **Tailwind CSS** : Básico.
 
 ****
